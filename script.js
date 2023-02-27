@@ -381,6 +381,48 @@ const playList = [
 
     },
     {
+        src:"./mp3/song12.mp3",
+        nameSong:"Đừng Lo Nhé Có Anh Đây",
+        singer: "Thiên Tú",
+        img: "https://i.ytimg.com/vi/xM9eGtrIGh8/maxresdefault.jpg"
+
+    },
+    {
+        src:"./mp3/song16.mp3",
+        nameSong:"Em Là Nhất",
+        singer: "kis x Hoàng kaye x Yahy",
+        img: "https://i.ytimg.com/vi/MbGo-MkHSTs/maxresdefault.jpg"
+
+    },
+    {
+        src:"./mp3/song19.mp3",
+        nameSong:"Cảm Ơn Vì Tất Cả",
+        singer: "Anh Quân Idol",
+        img: "https://i.ytimg.com/vi/jz2D2kJqm_8/maxresdefault.jpg"
+
+    },
+    {
+        src:"./mp3/song23.mp3",
+        nameSong:"Khoan Thai",
+        singer: "Khải Đăng",
+        img: "https://i.ytimg.com/vi/6EnPoe2Rgps/mqdefault.jpg"
+
+    },
+    {
+        src:"./mp3/song4.mp3",
+        nameSong:"Tiếng Pháo Tiễn Người",
+        singer: "Hùng Quân",
+        img: "https://i.ytimg.com/vi/KI6TFG0-mTY/maxresdefault.jpg"
+
+    },
+    {
+        src:"./mp3/song8.mp3",
+        nameSong:"Thuyền Quyên",
+        singer: "Diệu Kiên",
+        img: "https://i.ytimg.com/vi/kqOybgUwTGY/maxresdefault.jpg"
+
+    },
+    {
         src:"./mp3/LegendsNeverDie.mp3",
         nameSong:"Legends Never Die",
         singer: " Against The Curent-World 2017",
