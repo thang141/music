@@ -423,6 +423,13 @@ const playList = [
 
     },
     {
+        src:"./mp3/AiLaNguoiThuongEm.mp3",
+        nameSong:"Ai Là Người Thương Em",
+        singer: "Quân AP",
+        img: "https://i.ytimg.com/vi/P_jk6caKnfA/maxresdefault.jpg"
+
+    },
+    {
         src:"./mp3/LegendsNeverDie.mp3",
         nameSong:"Legends Never Die",
         singer: " Against The Curent-World 2017",
