@@ -430,6 +430,13 @@ const playList = [
 
     },
     {
+        src:"./mp3/ChiLaKhongCungNhau.mp3",
+        nameSong:"Chỉ Là Không Cùng Nhau",
+        singer: "TĂNG PHÚC ft TRƯƠNG THẢO NHI",
+        img: "https://i.ytimg.com/vi/UqKVL56IJB8/maxresdefault.jpg"
+
+    },
+    {
         src:"./mp3/LegendsNeverDie.mp3",
         nameSong:"Legends Never Die",
         singer: " Against The Curent-World 2017",
